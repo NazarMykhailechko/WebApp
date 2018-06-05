@@ -5,7 +5,7 @@ public class PersonUtilesImpl implements PersonUtiles {
 
     private List<Person> personList;
 
-    public PersonUtilesImpl() {
+    PersonUtilesImpl() {
         personList = new ArrayList<Person>();
     }
 
